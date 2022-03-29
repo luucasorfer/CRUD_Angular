@@ -2,23 +2,28 @@
   "products": [
     {
       "id": 1,
-      "name": "caneta",
+      "name": "Caneta",
       "price": 5.89
     },
     {
       "id": 2,
-      "name": "notebook",
+      "name": "Notebook",
       "price": 12000.89
     },
     {
       "id": 3,
-      "name": "smartfone",
+      "name": "Smartfone",
       "price": 5000.89
     },
     {
       "id": 4,
-      "name": "geladeira",
+      "name": "Geladeira",
       "price": 1999.89
+    },
+    {
+      "id": 5,
+      "name": "Ventilador",
+      "price": 99.89
     }
   ]
 }
