@@ -2,7 +2,7 @@
   "products": [
     {
       "name": "Caneta",
-      "price": 5.89,
+      "price": "5.8",
       "id": 1
     },
     {
