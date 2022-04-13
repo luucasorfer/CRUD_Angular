@@ -24,11 +24,6 @@
       "name": "Ventilador",
       "price": 99.89,
       "id": 5
-    },
-    {
-      "name": "Ramal",
-      "price": "1200",
-      "id": 6
     }
   ]
 }
