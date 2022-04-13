@@ -1,6 +1,7 @@
-import { ProductService } from './../product.service';
-import { Product } from './../product.model';
 import { Component, OnInit } from '@angular/core';
+
+import { Product } from './../product.model';
+import { ProductService } from './../product.service';
 
 @Component({
   selector: 'app-product-read',
@@ -20,5 +21,4 @@ export class ProductReadComponent implements OnInit {
       console.log(products)
     })
   }
-
 }
